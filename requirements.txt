@@ -1,0 +1,9 @@
+gymnasium==0.26.2
+ale-py==0.8.1
+numpy==1.26.4
+matplotlib==3.7.1
+tqdm==4.65.0
+gym[atari]
+autorom[accept-rom-license]
+git+https://github.com/openai/gym
+autorom
